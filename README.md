@@ -22,6 +22,10 @@ Presets are on the UC33e. P23–P25 hold the AnDrone mapping; the complete dump 
 - `complete_dump_UC33e.syx`: full SysEx dump of the controller.
 - `manuals/`: local copies of the manuals, not tracked here. Official sources are linked from each guide.
 
+## License
+
+The documentation, mapping tables and configuration files are licensed under [CC BY 4.0](./LICENSE). Manufacturer manuals and third-party material are not covered.
+
 ## Notes
 
 - AnDrone's MIDI channel (1) is the same as the Machinedrum channel range (1–4). The routing reference in `docs/` describes the setup as it is.
