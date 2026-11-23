@@ -2,7 +2,7 @@
 
 # uc33e-mappings
 
-MIDI mappings for the **M-Audio Evolution UC33e** controller, one per target device. Everything here is about the UC33e as a controller. Patches for Axoloti (including AnDrone) live in their own repository.
+MIDI mappings for the **M-Audio Evolution UC33e** controller, one per target device. Everything here is about the UC33e as a controller. Patches for Axoloti (including AnDrone and AxoGlitch) live in [axoloti-patches](https://github.com/antonelse/axoloti-patches).
 
 ## Mappings
 
@@ -11,7 +11,7 @@ MIDI mappings for the **M-Audio Evolution UC33e** controller, one per target dev
 | Elektron Machinedrum | ✅ Complete | 1–4 | P01–P17 | [GUIDE](./elektron_md-evolution_uc33e/GUIDE.md) |
 | Korg microKORG | ✅ Complete | 5 | P20 | [GUIDE](./microkorg-evolution_uc33e/GUIDE.md) |
 | Behringer XR18 | ✅ Complete | 6 | P30 | [GUIDE](./behringer_xr18-evolution_uc33e/GUIDE.md) |
-| AnDrone (Axoloti) | ✅ Complete | 1 | P23–P25 | Patch and guide in the `axoloti-patches` repository |
+| AnDrone (Axoloti) | ✅ Complete | 1 | P23–P25 | [axoloti-patches/androne](https://github.com/antonelse/axoloti-patches/tree/main/androne) |
 
 Presets are on the UC33e. P23–P25 hold the AnDrone mapping; the complete dump in this repo includes them.
 
