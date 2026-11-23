@@ -23,9 +23,10 @@ Also in this repository:
 - [ ] Machinedrum: check that P17 (levels and mutes for all 16 machines) is mapped
 - [ ] Machinedrum: understand how to change the predefined presets (upper-right buttons)
 - [ ] XR18: check whether Mixing Station can also control bus and aux sends
-- [ ] All devices: understand MSB/LSB for higher resolution control
+- [ ] All devices: understand MSB/LSB for higher resolution control, including the knob resolution increase
 - [ ] TD-3 and Zynthian: mappings not started (their MIDI channels are listed in `docs/`)
 - [ ] Channel 1: AnDrone and Machinedrum share it; decide whether to move one of them
+- [ ] AnDrone: update the P23–P25 mapping when the control changes listed in [axoloti-patches/androne](https://github.com/antonelse/axoloti-patches/tree/main/androne) are done
 
 ## License
 
